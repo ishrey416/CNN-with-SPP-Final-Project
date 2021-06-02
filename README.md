@@ -1,5 +1,7 @@
 # CNN-with-SPP-Final-Project
 
+ Colab file: https://colab.research.google.com/drive/1EMP3bs3Mtq8A4wcKn86txRqS9a5TGXdT?usp=sharing
+
 ## Introduction
 ### Problem Definition
 Now that neural networks are gaining more and more popularity for a variety of uses, the task of being able to train an entire network on several pieces of data seems more feasible than ever. New algorithms to transform and easily facilitate the classification of data are conceptualised everyday, and with these, limitations for which data is readily accepted as input are also suppressed. One such limitation is image dimension for image classification. If one were to attempt classification of images using a Convolutional Neural Network, one would have to ensure that the size of each image is exactly the same. This limitation would severely hinder the quantity of data that would be available, as well as limit the capabilities of the network to only acknowledge mono-sized images. This is the issue that we decided to tackle.
@@ -61,5 +63,3 @@ In conclusion, the SPP-incorporated CNN showed more improvements compared to the
  Caltech101 Dataset - http://www.vision.caltech.edu/Image_Datasets/Caltech101/
  
  Ouyang et. al, Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond - https://arxiv.org/abs/1804.02047
- 
- Colab file: https://drive.google.com/file/d/1U2FwkRdBWYESlJUZJVnmjcZuUbj_zB3a/view?usp=sharing
